@@ -19,8 +19,8 @@ I struggled and aufull lot with 3d modeling and fusion since it was my very firs
 <img width="1325" height="594" alt="Screenshot 2026-06-23 123844" src="https://github.com/user-attachments/assets/da0c1058-bc46-49e4-af56-7048c99704c7" />
 <img width="1583" height="857" alt="Screenshot 2026-06-23 124340" src="https://github.com/user-attachments/assets/f4a5335c-a252-45b7-9191-22d12cb7fb60" />
 <img width="1720" height="776" alt="Screenshot 2026-06-23 124452" src="https://github.com/user-attachments/assets/82621de9-0ca8-4976-98f8-ae1f582a664f" />
----
-# Bill Of Materials
+
+### **Bill Of Materials**
 | **Component**                | **Qty** |
 |------------------------------|---------|
 | **XIAO RP2040**              | 1       |
