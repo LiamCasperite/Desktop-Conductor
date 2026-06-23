@@ -1,11 +1,11 @@
-### Desktop conductor firmware V1
-# Coded in CircuitPython 
-# made extremely barebones commands and keybinds
-# Each key only prints out 1,2,3,4. and the OLED only displays "Example"
-#Future changes will include media control keybinds and 
-#more in depth use of the OLED to display information concerning volume or song details.
-# this should theoretically track my coding time
-print("hello world")
+'''
+Desktop conductor firmware V1
+Coded in CircuitPython 
+made extremely barebones commands and keybinds
+Each key only prints out 1,2,3,4. and the OLED only displays "Example"
+Future changes will include media control keybinds and 
+more in depth use of the OLED to display information concerning volume or song details.
+'''
 
 #import libraries
 import board
